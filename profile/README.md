@@ -84,7 +84,7 @@ de la toma de decisiones en la organización y su aportación es valorada por ig
         </a>
       </p>
       <p align="center">
-        Lead GDSC-ESCOM<br>Learn Student Ambassador<br>
+        Lead GDSC-ESCOM<br>Co-Founder - Tech-Mania<br> <!-- Pon acá tu titulo -->
         <br><strong>CDMX, México</strong><br>
         <br>
         <a href="https://github.com/"> <!-- Pon acá tu link de GitHub -->
@@ -104,7 +104,7 @@ de la toma de decisiones en la organización y su aportación es valorada por ig
         </a>
       </p>
       <p align="center">
-        Lead GDSC-ESCOM<br>Learn Student Ambassador<br>
+        Lead GDSC-ESCOM<br>Co-Founder - Tech-Mania<br>
         <br><strong>CDMX, México</strong><br>
         <br>
         <a href="https://github.com/"> <!-- Pon acá tu link de GitHub -->
@@ -126,7 +126,7 @@ de la toma de decisiones en la organización y su aportación es valorada por ig
         </a>
       </p>
       <p align="center">
-        Lead GDSC-ESCOM<br>Learn Student Ambassador<br>
+        Lead GDSC-ESCOM<br>Co-Founder - Tech-Mania<br>
         <br><strong>CDMX, México</strong><br>
         <br>
         <a href="https://github.com/"> <!-- Pon acá tu link de GitHub -->
@@ -146,7 +146,7 @@ de la toma de decisiones en la organización y su aportación es valorada por ig
         </a>
       </p>
       <p align="center">
-        Lead GDSC-ESCOM<br>Learn Student Ambassador<br>
+        Lead GDSC-ESCOM<br>Co-Founder - Tech-Mania<br>
         <br><strong>CDMX, México</strong><br>
         <br>
         <a href="https://github.com/"> <!-- Pon acá tu link de GitHub -->
@@ -166,7 +166,7 @@ de la toma de decisiones en la organización y su aportación es valorada por ig
         </a>
       </p>
       <p align="center">
-        Lead GDSC-ESCOM<br>Learn Student Ambassador<br>
+        Lead GDSC-ESCOM<br>Co-Founder - Tech-Mania<br>
         <br><strong>CDMX, México</strong><br>
         <br>
         <a href="https://github.com/"> <!-- Pon acá tu link de GitHub -->
@@ -186,7 +186,7 @@ de la toma de decisiones en la organización y su aportación es valorada por ig
         </a>
       </p>
       <p align="center">
-        Lead GDSC-ESCOM<br>Learn Student Ambassador<br>
+        Lead GDSC-ESCOM<br>Co-Founder - Tech-Mania<br>
         <br><strong>CDMX, México</strong><br>
         <br>
         <a href="https://github.com/"> <!-- Pon acá tu link de GitHub -->
